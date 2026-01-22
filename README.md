@@ -92,7 +92,6 @@
 - [Photo Editing and Management](#photo-editing-and-management)
 - [Photo Storage](#photo-storage)
 - [Privacy Tools](#privacy-tools)
-## Privacy Tools
 This section is dedicated to some tools that may help users analyze the privacy status on their devices.
 ### Desktop
 - [Whoami Project](https://whoami.qorg11.net/) – Provides enhanced privacy, anonymity for Debian and Arch based linux distributions.

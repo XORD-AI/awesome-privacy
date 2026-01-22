@@ -92,6 +92,13 @@
 - [Photo Editing and Management](#photo-editing-and-management)
 - [Photo Storage](#photo-storage)
 - [Privacy Tools](#privacy-tools)
+## Privacy Tools
+This section is dedicated to some tools that may help users analyze the privacy status on their devices.
+### Desktop
+- [Whoami Project](https://whoami.qorg11.net/) – Provides enhanced privacy, anonymity for Debian and Arch based linux distributions.
+- [BusKill](https://buskill.in/) – A Dead Man Switch triggered when a magnetic breakaway is tripped, severing a USB connection.
+- [MetaPurge](https://github.com/XORD-AI/MetaPurge) – Metadata Sanitizer for Windows 10/11 — strips EXIF, PDF metadata, and file timestamps from your documents. "Your files are talking behind your back. MetaPurge shuts them up."
+- [NeuralVoid](https://github.com/XORD-AI/NeuralVoid) – System-Level AI Telemetry Blocker for Windows 10/11 — null-routes telemetry endpoints from Adobe, Microsoft, GitHub Copilot, and more. "The spy is inside the house. NeuralVoid cuts the wire."
 - [Remote Access and Control](#remote-access-and-control)
 - [Search Engines](#search-engines)
 - [Social Networks and Platforms](#social-networks-and-platforms)
